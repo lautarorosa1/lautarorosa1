@@ -42,7 +42,6 @@ Me enfoco en construir aplicaciones web completas, desde APIs robustas hasta int
 
 ### ⚙️ Herramientas
 - Git & GitHub
-- Docker (básico)
 - Postman / Swagger
 
 ---
@@ -52,12 +51,7 @@ Me enfoco en construir aplicaciones web completas, desde APIs robustas hasta int
 - 🔄 Profundizando en arquitectura backend en .NET
 - 🧩 Patrones de diseño
 - ⚡ Mejorando habilidades en Vue.js
-- ☁️ Conceptos de cloud (Azure / AWS)
 
 ## 📊 Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautarorosa1&layout=compact&theme=tokyonight)
-
-## 📈 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lautarorosa1&show_icons=true&theme=tokyonight)
