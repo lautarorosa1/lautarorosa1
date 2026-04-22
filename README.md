@@ -56,8 +56,8 @@ Me enfoco en construir aplicaciones web completas, desde APIs robustas hasta int
 
 ## 📊 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautarorosa1&layout=compact&theme=tokyonight)
 
 ## 📈 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lautarorosa1&show_icons=true&theme=tokyonight)
