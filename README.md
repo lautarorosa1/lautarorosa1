@@ -53,3 +53,11 @@ Me enfoco en construir aplicaciones web completas, desde APIs robustas hasta int
 - 🧩 Patrones de diseño
 - ⚡ Mejorando habilidades en Vue.js
 - ☁️ Conceptos de cloud (Azure / AWS)
+
+## 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+## 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
